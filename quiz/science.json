@@ -1,0 +1,136 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is the first calculating device?",
+      "answers": [
+        "Abacus",
+        "Calculator",
+        "Turing Machine",
+        "Pascaline"
+      ],
+      "type": 0,
+      "correctIndex": [
+        0
+      ]
+    },
+    {
+      "question": "Who invented mechanical calculator called Pascaline?",
+      "answers": [
+        "Charles Babbage",
+        "Blaise Pascal",
+        "Alan Turing",
+        "Lee De Forest"
+      ],
+      "type": 0,
+      "correctIndex": [
+        1
+      ]
+    },
+    {
+      "question": "Who among the following considered as the ‘father of artificial intelligence’?",
+      "answers": [
+        "Charles Babbage",
+        "Lee De Forest",
+        "John McCarthy",
+        "JP Eckert"
+      ],
+      "type": 0,
+      "correctIndex": [
+        2
+      ]
+    },
+    {
+      "question": "Which was the world’s first successful electronic computer?",
+      "answers": [
+        "PARAM",
+        "CRAY-1",
+        "Pascaline",
+        "ENIAC electronic Numerical Integrator and computer"
+      ],
+      "type": 0,
+      "correctIndex": [
+        3
+      ]
+    },
+    {
+      "question": "Which two of the following numbers have a product that is between –1 and 0? Indicate both of the numbers.",
+      "answers": [
+        "–20",
+        "–10",
+        "2^–4",
+        "3^–2"
+      ],
+      "correctIndex": [
+        2,
+        3
+      ],
+      "type": 1
+    },
+    {
+      "question": "What is 70 degrees Fahrenheit in Celsius?",
+      "answers": [
+        "18.8889",
+        "20",
+        "21.1111",
+        "158"
+      ],
+      "type": 0,
+      "correctIndex": [
+        2
+      ]
+    },
+    {
+      "question": "Who among the following used the term computer worm for the first time?",
+      "answers": [
+        " John Brunner",
+        "Alan Turing",
+        "John McCarthy",
+        "JP Eckert"
+      ],
+      "type": 0,
+      "correctIndex": [
+        0
+      ]
+    },
+    {
+      "question": "How far is the moon from Earth?",
+      "answers": [
+        "7,918 miles (12,742 km)",
+        "86,881 miles (139,822 km)",
+        "238,400 miles (384,400 km)",
+        "35,980,000 miles (57,910,000 km)"
+      ],
+      "type": 0,
+      "correctIndex": [
+        2
+      ]
+    },
+    {
+      "question": "Which was first virus detected on ARPANET, the forerunner of the internet in the early 1970s?",
+      "answers": [
+        "Exe Flie",
+        "Creeper Virus",
+        "Peeper Virus",
+        "Trozen horse"
+      ],
+      "type": 0,
+      "correctIndex": [
+        1
+      ]
+    },
+    {
+      "question": "What is 48,879 in hexidecimal?",
+      "answers": [
+        "0x18C1",
+        "0xBEEF",
+        "0xDEAD",
+        "0x12D591",
+        "0x1591"
+      ],
+      "type": 0,
+      "correctIndex": [
+        1
+      ]
+    }
+  ]
+}
