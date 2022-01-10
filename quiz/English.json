@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "question": "I ..... tennis every Sunday morning.",
+      "answers": [
+        "playing",
+        "play",
+        "am playing",
+        "am play"
+      ],
+      "type": 0,
+      "correctIndex": [
+        1
+      ]
+    },
+    {
+      "question": "Don't make so much noise. Noriko ..... to study for her ESL test!",
+      "answers": [
+        "try",
+        "tries",
+        "tried",
+        "is trying"
+      ],
+      "type": 0,
+      "correctIndex": [
+        3
+      ]
+    },
+    {
+      "question": "Jun-Sik ..... his teeth before breakfast every morning.",
+      "answers": [
+        "will cleaned",
+        "is cleaning",
+        "cleans",
+        "clean"
+      ],
+      "type": 0,
+      "correctIndex": [
+        2
+      ]
+    },
+    {
+      "question": "Sorry, she can't come to the phone. She ..... a bath!",
+      "answers": [
+        "is having",
+        "having",
+        "have",
+        "has"
+      ],
+      "type": 0,
+      "correctIndex": [
+        0
+      ]
+    },
+    {
+      "question": "..... many times every winter in Frankfurt.",
+      "answers": [
+        "It snows",
+        "It snowed",
+        "It is snowing",
+        "It is snow"
+      ],
+      "correctIndex": [
+        0
+      ],
+      "type": 0
+    },
+    {
+      "question": "How many students in your class ..... from Korea?",
+      "answers": [
+        "comes",
+        "come",
+        "came",
+        "are coming"
+      ],
+      "type": 0,
+      "correctIndex": [
+        1
+      ]
+    },
+    {
+      "question": "Weather report: 'It's seven o'clock in Frankfurt and ..... .'",
+      "answers": [
+        "there is snow",
+        "it`s snowing",
+        "it snows",
+        "it snowed"
+      ],
+      "type": 0,
+      "correctIndex": [
+        1
+      ]
+    },
+    {
+      "question": "Babies ..... when they are hungry.",
+      "answers": [
+        "cry",
+        "cries",
+        "cried",
+        "are crying"
+      ],
+      "type": 0,
+      "correctIndex": [
+        0
+      ]
+    },
+    {
+      "question": "Jane: 'What ..... in the evenings?'\nMary: 'Usually I watch TV or read a book.'",
+      "answers": [
+        "you doing",
+        "you do",
+        "do you do",
+        "are you doing"
+      ],
+      "type": 0,
+      "correctIndex": [
+        2
+      ]
+    },
+    {
+      "question": "Jane ..... her blue jeans today, but usually she wears a skirt or a dress.",
+      "answers": [
+        "wears",
+        "wearing",
+        "wear",
+        "is wearing"
+      ],
+      "type": 0,
+      "correctIndex": [
+        3
+      ]
+    }
+  ]
+}
