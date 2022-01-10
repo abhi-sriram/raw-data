@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "question": "What type of conservative regimes were set up in 1815 in Europe?",
+      "answers": [
+        "Autocratic",
+        "Democratic",
+        "Aristocratic",
+        "Dictatorial"
+      ],
+      "type": 0,
+      "correctIndex": [
+        0
+      ]
+    },
+    {
+      "question": "Identify the French artist who prepared a series of four prints visualising his dream of a world from the following:",
+      "answers": [
+        "Kitagewa Utamaro",
+        "Richard M Hoe",
+        "Voltaire",
+        "Frederic Sorrieu"
+      ],
+      "type": 0,
+      "correctIndex": [
+        3
+      ]
+    },
+    {
+      "question": "Napoleon invaded Italy in",
+      "answers": [
+        "1821",
+        "1790",
+        "1905",
+        "1797"
+      ],
+      "type": 0,
+      "correctIndex": [
+        1
+      ]
+    },
+    {
+      "question": "Who was proclaimed King of united Italy in 1861?",
+      "answers": [
+        "Victor Emmanuel II",
+        "Louis Philippe",
+        "Mazzini",
+        "Cavour"
+      ],
+      "type": 0,
+      "correctIndex": [
+        0
+      ]
+    },
+    {
+      "question": "Which of the following artists painted the image of Germania?",
+      "answers": [
+        "Philip Veit",
+        "Frederic Sorrieu",
+        "Ernst Renan",
+        "Richar M Hoe"
+      ],
+      "correctIndex": [
+        0
+      ],
+      "type": 0
+    },
+    {
+      "question": "Who said ‘When France sneezes, the rest of Europe catches cold’?",
+      "answers": [
+        "Garibaldi",
+        "Bismarck",
+        "Mazzini",
+        "Duke Metternich"
+      ],
+      "type": 0,
+      "correctIndex": [
+        3
+      ]
+    },
+    {
+      "question": "What happened to Poland at the end of 18th century. Which of the following answers is correct?",
+      "answers": [
+        "Poland achieved independence at the end of the 18th century.",
+        "Poland came totally under the control of Russia and became part of Russia.",
+        "Poland became the part of East Germany.",
+        "Poland was partitioned at the end of the 18th century by three Great Powers: Russia, Prussia and Austria."
+      ],
+      "type": 0,
+      "correctIndex": [
+        3
+      ]
+    },
+    {
+      "question": "Who played the leading role in the unification of Germany?",
+      "answers": [
+        "German Emperor (formerly King of Prussia) – Kaiser William I.",
+        "Otto Von Bismarck (Prussian Chief Minister).",
+        "Johann Gottfried Herder – German philosopher.",
+        "Austrian Chancellor – Duke Metternich."
+      ],
+      "type": 0,
+      "correctIndex": [
+        1
+      ]
+    },
+    {
+      "question": "Three wars over seven years with Austria, Denmark, Germany and France, ended in",
+      "answers": [
+        "Danish victory",
+        "Prussian victory",
+        "French victory",
+        "German victory"
+      ],
+      "type": 0,
+      "correctIndex": [
+        1
+      ]
+    },
+    {
+      "question": "Who was proclaimed the emperor of Germany in 1871?",
+      "answers": [
+        "Otto Von Bismarck",
+        "Victor Emmanuel II",
+        "Count Cavour",
+        "Kaiser William I of Prussia"
+      ],
+      "type": 0,
+      "correctIndex": [
+        3
+      ]
+    }
+  ]
+}
